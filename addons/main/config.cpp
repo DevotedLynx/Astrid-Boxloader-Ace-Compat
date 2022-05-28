@@ -1,4 +1,4 @@
-#include "\x\astrid\addons\main\script_component.hpp"
+#include "\x\ABAC\addons\main\script_component.hpp"
 
 class CfgPatches
 {
